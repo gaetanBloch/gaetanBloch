@@ -6,7 +6,7 @@
 
 <h2>Hi there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="35px"></h2>
 
-<h3>Some stuff about me:>/h3>
+<h3>Some stuff about me:</h3>
 
 - I am currently working as Technical Lead Full Stack / DevOps Engineer 💻<br>
 - I love Japan and I used to be a Tokyoite for 6 years 🗼 <br>
