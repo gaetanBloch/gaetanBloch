@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/e1mdxuN)
+![Banner](https://i.imgur.com/e1mdxuN.png)
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/gaetanbloch/count.svg" />
