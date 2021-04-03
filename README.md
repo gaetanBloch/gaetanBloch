@@ -8,7 +8,7 @@
 
 <p>
 I am currently working as Technical Lead Full Stack / DevOps Engineer 💻<br>
-I love Japan and I lived used to be a Tokyoite for 6 years 🗼 <br>
+I love Japan and I used to be a Tokyoite for 6 years 🗼 <br>
 I enjoy 💙 developing in Java and Node.js for the Back End side. As for the Front End part I'm proficient with the latest versions of Angular, React and Vue.js<br>
 I'm a found of sport in general although I particularly like Volley-ball 🏐 and Badminton 🏸
 </p>
