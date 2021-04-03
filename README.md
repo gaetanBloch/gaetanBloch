@@ -1,7 +1,7 @@
-### Hi there
+![Banner](https://imgur.com/e1mdxuN)
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/kmhmubin/count.svg" />
+  <img src="https://profile-counter.glitch.me/gaetanbloch/count.svg" />
 </p>
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
