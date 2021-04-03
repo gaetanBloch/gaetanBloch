@@ -4,10 +4,11 @@
   <img src="https://profile-counter.glitch.me/gaetanbloch/count.svg" />
 </p>
 
-<h2>Hi there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="25px"></h2>
-
-<h3>Glad to see you here!</h3>
+<h2>Hi there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="35px"></h2>
 
 <p>
-Technical Lead Full Stack / DevOps | Former Tokyoite 🗼 | Love 💙 Java / Node.js and Angular / React / Vue.js | Found of Volley-ball 🏐 and Badminton 🏸
+I am currently working as Technical Lead Full Stack / DevOps Engineer 💻.
+I love Japan and I lived used to be a Tokyoite for 6 years 🗼.
+I enjoy 💙 developing in Java and Node.js for the Back End side. As for the Front End part I'm proficient with the latest versions of Angular, React and Vue.js
+I'm a found of sport in general although I particularly like Volley-ball 🏐 and Badminton 🏸
 </p>
