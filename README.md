@@ -4,7 +4,9 @@
   <img src="https://profile-counter.glitch.me/gaetanbloch/count.svg" />
 </p>
 
-<h2>Hi there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="35px"></h2>
+<div align="center">
+  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
 <h3>Some stuff about me:</h3>
 
