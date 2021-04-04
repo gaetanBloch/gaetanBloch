@@ -11,9 +11,9 @@
 - I'm a Technical Lead Full Stack / DevOps Engineer 💻 with more than 10 years of experience
 - I adore 💙 developing in Java and Node.js for the Back End side. As for the Front End part I'm proficient with the latest versions of Angular, React and Vue.js
 - I'm an employee of the consulting firm [EOLE Consulting](https://www.eole-consulting.fr/) and am fully devoted to it
-- I also work for one of the top IT services company in the world [Capgemini](https://www.sogeti.com/)
+- I also work for one of the top IT services company in the world: [Capgemini](https://www.sogeti.com/)
 - I'm currently working on a project for a French Governmental Agency 🏢
-- I love Japan and I used to live in Tokyo for 6 years 🗼
+- I love Japan and I lived in Tokyo for 6 years 🗼
 - I'm a found of sports in general although I particularly like Volley-ball 🏐 and Badminton 🏸
 
 #### 📫 Reach me by e-mail on **[my Gmail address](mailto:gaetan.bloch+github@gmail.com)**
@@ -48,16 +48,19 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
     <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
       <a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" alt="confluence" width="40" height="40"/></a>
-     <a href="https://cucumber.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber-plain-wordmark.svg" alt="cucumber" width="40" height="40"/></a>
+     <a href="https://cucumber.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain-wordmark.svg" alt="cucumber" width="40" height="40"/></a>
   <a href="https://www.cypress.io" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
   <a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a> 
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> 
-   <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a> 
+   <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a> 
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>     <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> 
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-  <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
+  <a href="https://about.gitlab.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/></a> 
+  <a href="https://gradle.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gradle/gradle-plain-wordmark.svg" alt="grafana" width="40" height="40"/></a>
+   <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
   <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a> 
+   <a href="https://groovy-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="gulp" width="40" height="40"/></a> 
   <a href="https://gulpjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a> 
   <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a> 
   <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a> 
