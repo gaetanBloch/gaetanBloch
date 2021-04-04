@@ -16,10 +16,8 @@
 - I love Japan and I used to live in Tokyo for 6 years 🗼
 - I'm a found of sports in general although I particularly like Volley-ball 🏐 and Badminton 🏸
 
-### 📫 Reach me via **[My Linktree](https://linktr.ee/gbloch)**
-### 📄 Know about my experiences on **[My LinkedIn Resume](www.linkedin.com/in/gaetanbloch)**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaetanbloch" alt="gaetanbloch" /></a> </p>
+#### 📫 Reach me via **[My Linktree](https://linktr.ee/gbloch)**
+#### 📄 Know about my experiences on **[My LinkedIn Resume](www.linkedin.com/in/gaetanbloch)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -87,6 +85,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en" alt="gaetanbloch"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaetanbloch&" alt="gaetanbloch"/></p>
 
-<h4 align="left">Support:</h4>
-<p><a href="https://www.buymeacoffee.com/gbloch"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="100" alt="gbloch"/></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=gaetanbloch" alt="gaetanbloch" /></a> </p>
+
+
+<h5 align="left">Support:</h5>
+<p><a href="https://www.buymeacoffee.com/gbloch"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="27" width="100" alt="gbloch"/></a>
 
