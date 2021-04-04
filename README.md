@@ -46,9 +46,9 @@
   <a href="https://cassandra.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/></a> 
   <a href="https://circleci.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/></a> 
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-    <a href="https://www.cplusplus.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-      <a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://www.vectorlogo.zone/logos/confluence/confluence-original-wordmark.svg" alt="cucumber" width="40" height="40"/></a>
-     <a href="https://cucumber.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cucumber/cucumber-plain-wordmark.svg" alt="cucumber" width="40" height="40"/></a>
+    <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+      <a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" alt="confluence" width="40" height="40"/></a>
+     <a href="https://cucumber.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber-plain-wordmark.svg" alt="cucumber" width="40" height="40"/></a>
   <a href="https://www.cypress.io" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
   <a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a> 
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
