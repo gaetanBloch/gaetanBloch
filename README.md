@@ -90,9 +90,11 @@
 
 ### ⚡ My Github Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en&hide_border=true" alt="gaetanbloch"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaetanbloch&show_icons=true&locale=en&layout=compact&hide_border=true" alt="gaetanbloch"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaetanbloch&hide_border=true" alt="gaetanbloch" /></p>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en&hide_border=true" alt="gaetanbloch"/></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaetanbloch&show_icons=true&locale=en&layout=compact&hide_border=true"     alt="gaetanbloch"/>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaetanbloch&hide_border=true" alt="gaetanbloch" />
 
 <br>
 
