@@ -20,13 +20,13 @@
 #### 📄 Know about my experiences on **[My LinkedIn Resume](www.linkedin.com/in/gaetanbloch)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/gaetanbloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gaetanbloch" height="30" width="40" /></a>
-<a href="https://twitter.com/bloch_gaetan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bloch_gaetan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaetanbloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaetanbloch" height="30" width="40" /></a>
-<a href="https://fb.com/gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gaetan.bloch" height="30" width="40" /></a>
-<a href="https://instagram.com/gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gaetan.bloch" height="30" width="40" /></a>
-<a href="https://medium.com/@gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gaetan.bloch" height="30" width="40" /></a>
+<p align="left" >
+  <a href="https://dev.to/gaetanbloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gaetanbloch" height="30" width="40" /></a>
+  <a href="https://twitter.com/bloch_gaetan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bloch_gaetan" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/gaetanbloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaetanbloch" height="30" width="40" /></a>
+  <a href="https://fb.com/gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gaetan.bloch" height="30" width="40" /></a>
+  <a href="https://instagram.com/gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gaetan.bloch" height="30" width="40" /></a>
+  <a href="https://medium.com/@gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gaetan.bloch" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -81,13 +81,13 @@
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
   <a href="https://webpack.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
+### ⚡ My Github Statistics
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaetanbloch&show_icons=true&locale=en&layout=compact" alt="gaetanbloch"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en" alt="gaetanbloch"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaetanbloch&" alt="gaetanbloch"/></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=gaetanbloch" alt="gaetanbloch" /></a> </p>
 
-
-<h5 align="left">Support:</h5>
-<p><a href="https://www.buymeacoffee.com/gbloch"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="27" width="100" alt="gbloch"/></a>
+<h5 align="right">Support:</h5>
+<p><a href="https://www.buymeacoffee.com/gbloch"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="27" width="100" alt="gbloch"/></a>
 
