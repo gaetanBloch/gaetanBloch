@@ -16,7 +16,7 @@
 - I love Japan and I used to live in Tokyo for 6 years 🗼
 - I'm a found of sports in general although I particularly like Volley-ball 🏐 and Badminton 🏸
 
-#### 📫 Reach by mail on **[my Gmail address](mailto:gaetan.bloch+github@gmail.com)**
+#### 📫 Reach me by e-mail on **[my Gmail address](mailto:gaetan.bloch+github@gmail.com)**
 #### 📄 Learn about my experiences on **[my LinkedIn resume](https://www.linkedin.com/in/gaetanbloch)**
 
 ### 🌱 My Linktree
@@ -36,6 +36,7 @@
 <p align="left"> 
   <a href="https://developer.android.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://angular.io" style="text-decoration:none"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/></a>
+   <a href="https://httpd.apache.org/" style="text-decoration:none"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank" style="text-decoration:none"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" style="text-decoration:none"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> 
   <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
