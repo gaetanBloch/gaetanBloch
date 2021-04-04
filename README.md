@@ -6,6 +6,8 @@
 
 <h2> Hello there fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
+<h3>Welcome to my universe!</h3>  
+
 <h3>Some stuff about me:</h3>
 
 - I'm a Technical Lead Full Stack / DevOps Engineer 💻 with more than 10 years of experience
@@ -16,4 +18,3 @@
 - I love Japan and I used to live in Tokyo for 6 years 🗼
 - I'm a found of sports in general although I particularly like Volley-ball 🏐 and Badminton 🏸
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="gaëtan-bloch-8ab1461a"><a class="LI-simple-link" href='https://fr.linkedin.com/in/ga%C3%ABtan-bloch-8ab1461a?trk=profile-badge'>Gaëtan Bloch</a></div>
