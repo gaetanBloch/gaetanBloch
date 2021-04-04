@@ -23,7 +23,7 @@
  <p align="center"><a href="https://linktr.ee/gbloch" target="_blank"><img src="https://i.imgur.com/jsTidLM.png" alt="linktree" width="150" height="150"/></a></p>
 
 ### 🔗 Connect with me
-<p align="left" >
+<p align="center" >
    <a href="https://linkedin.com/in/gaetanbloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaetanbloch" height="30" width="40" /></a>
    <a href="https://twitter.com/bloch_gaetan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bloch_gaetan" height="30" width="40" /></a>
    <a href="https://instagram.com/gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gaetan.bloch" height="30" width="40" /></a>
