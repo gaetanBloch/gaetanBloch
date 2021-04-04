@@ -4,9 +4,9 @@
 [![Years Badge](https://badges.pufler.dev/years/gaetanbloch)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/gaetanbloch)](https://badges.pufler.dev)
 
-<h2> Hello there fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+## Hello there fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<h3>Some stuff about me:</h3>
+### Some stuff about me
 
 - I'm a Technical Lead Full Stack / DevOps Engineer 💻 with more than 10 years of experience
 - I adore 💙 developing in Java and Node.js for the Back End side. As for the Front End part I'm proficient with the latest versions of Angular, React and Vue.js
@@ -19,7 +19,7 @@
 #### 📫 Reach me via **[My Linktree](https://linktr.ee/gbloch)**
 #### 📄 Know about my experiences on **[My LinkedIn Resume](www.linkedin.com/in/gaetanbloch)**
 
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with me
 <p align="left" >
   <a href="https://dev.to/gaetanbloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gaetanbloch" height="30" width="40" /></a>
   <a href="https://twitter.com/bloch_gaetan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bloch_gaetan" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
   <a href="https://medium.com/@gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gaetan.bloch" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 👨‍💻 Languages and Tools
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
@@ -83,9 +83,8 @@
 
 ### ⚡ My Github Statistics
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaetanbloch&show_icons=true&locale=en&layout=compact" alt="gaetanbloch"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaetanbloch&show_icons=true&locale=en&layout=compact" alt="gaetanbloch"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en" alt="gaetanbloch"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaetanbloch&" alt="gaetanbloch"/></p>
 
 
 <h5 align="right">Support:</h5>
