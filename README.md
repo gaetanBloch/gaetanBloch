@@ -129,5 +129,6 @@
 <p>
 <br>
 
+<!-- Support -->
 <a href="https://www.buymeacoffee.com/gbloch"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="110"/></a>
 
