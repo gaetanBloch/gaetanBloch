@@ -1,6 +1,7 @@
 ![Banner](https://i.imgur.com/Gq6hXKk.jpg)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gaetanbloch.gaetanbloch)
+![Years Badge](https://badges.pufler.dev/years/gaetanbloch)](https://badges.pufler.dev)
 
 <h2> Hello there fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -11,5 +12,5 @@
 - I'm an employee of the consulting firm [EOLE Consulting](https://www.eole-consulting.fr/) and am fully devoted to it
 - I also work for one of the top IT services company in the world [Capgemini](https://www.sogeti.com/)
 - I'm currently working on a project for a French Governmental Agency 🏢
-- I love Japan and I used to be a Tokyoite for 6 years 🗼
+- I love Japan and I used to live in Tokyo for 6 years 🗼
 - I'm a found of sports in general although I particularly like Volley-ball 🏐 and Badminton 🏸
