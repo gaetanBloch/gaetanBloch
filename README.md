@@ -19,6 +19,8 @@
 #### 📫 Reach me via **[My Linktree](https://linktr.ee/gbloch)**
 #### 📄 Know about my experiences on **[My LinkedIn Resume](www.linkedin.com/in/gaetanbloch)**
 
+<br>
+
 ### 🔗 Connect with me
 <p align="left" >
   <a href="https://dev.to/gaetanbloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gaetanbloch" height="30" width="40" /></a>
@@ -28,6 +30,8 @@
   <a href="https://instagram.com/gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gaetan.bloch" height="30" width="40" /></a>
   <a href="https://medium.com/@gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gaetan.bloch" height="30" width="40" /></a>
 </p>
+
+<br>
 
 ### 👨‍💻 Languages and Tools
 <p align="left"> 
@@ -81,10 +85,13 @@
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
   <a href="https://webpack.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
+<br>
+
+
 ### ⚡ My Github Statistics
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en&hide_border=true" alt="gaetanbloch"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaetanbloch&show_icons=true&locale=en&layout=compact&hide_border=true" alt="gaetanbloch"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en&hide_border=true" alt="gaetanbloch"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaetanbloch&show_icons=true&locale=en&layout=compact&hide_border=true" alt="gaetanbloch"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaetanbloch&hide_border=true" alt="gaetanbloch" /></p>
 
 <br>
