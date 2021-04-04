@@ -1,6 +1,6 @@
 ![Banner](https://i.imgur.com/Gq6hXKk.jpg)
 
-![Profile views](https://komarev.com/ghpvc/?gaetanbloch)
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/gaetanbloch/gaetanbloch)
 
 <h2> Hello there fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
