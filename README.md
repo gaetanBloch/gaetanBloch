@@ -1,6 +1,7 @@
 ![Banner](https://i.imgur.com/Gq6hXKk.jpg)
 
 [![HitCount](http://hits.dwyl.com/gaetanbloch/gaetanbloch.svg)](http://hits.dwyl.com/gaetanbloch/gaetanbloch)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=gaetanbloch.gaetanbloch)
 
 <h2> Hello there fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
