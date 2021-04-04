@@ -1,12 +1,9 @@
 ![Banner](https://i.imgur.com/Gq6hXKk.jpg)
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/gaetanbloch/count.svg" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?gaetanbloch)
 
-<div align="center">
-  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
+<h2> Hello there fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+
 
 <h3>Some stuff about me:</h3>
 
