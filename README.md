@@ -83,10 +83,11 @@
 
 ### ⚡ My Github Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaetanbloch&show_icons=true&locale=en&layout=compact" alt="gaetanbloch"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en" alt="gaetanbloch"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en&hide_border=true" alt="gaetanbloch"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaetanbloch&show_icons=true&locale=en&layout=compact&hide_border=true" alt="gaetanbloch"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaetanbloch&hide_border=true" alt="gaetanbloch" /></p>
 
+<br>
 
-<h5 align="right">Support:</h5>
-<p><a href="https://www.buymeacoffee.com/gbloch"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="27" width="100" alt="gbloch"/></a>
+<a href="https://www.buymeacoffee.com/gbloch"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="110"/></a>
 
