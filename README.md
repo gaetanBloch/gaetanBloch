@@ -17,7 +17,7 @@
 - I'm a found of sports in general although I particularly like Volley-ball 🏐 and Badminton 🏸
 
 #### 📫 Reach me via **[My Linktree](https://linktr.ee/gbloch)**
-#### 📄 Know about my experiences on **[My LinkedIn Resume](www.linkedin.com/in/gaetanbloch)**
+#### 📄 Know about my experiences on **[My LinkedIn Resume](https://www.linkedin.com/in/gaetanbloch)**
 
 <br>
 
