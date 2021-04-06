@@ -9,7 +9,7 @@
 ### Some stuff about me
 
 - I'm a Technical Lead Full Stack / DevOps Engineer 💻 with more than 10 years of experience
-- I adore 💙 developing in Java and Node.js for the Back End side. As for the Front End part I'm proficient with the latest versions of Angular, React and Vue.js
+- I'm programming mostly in Java and Node.js for the Back End side. As for the Front End part I'm proficient with the latest versions of Angular, React and Vue.js
 - I'm an employee of the consulting firm [EOLE Consulting](https://www.eole-consulting.fr/) and am fully devoted to it
 - I also work for one of the top IT services company in the world: [Capgemini](https://www.sogeti.com/)
 - I'm currently working on several projects for a French Governmental Agency 🏢
