@@ -47,7 +47,9 @@
   <a href="https://cassandra.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/></a> 
    <a href="https://www.chaijs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="chai" width="40" height="40"/></a>
   <a href="https://circleci.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/></a> 
+   <a href="https://www.cloudfoundry.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cloudfoundry/cloudfoundry-icon.svg" alt="cloudfoundry" width="40" height="40"/></a> 
    <a href="https://concourse-ci.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/concourse-ci/concourse-ci-icon.svg" alt="circleci" width="40" height="40"/></a> 
+   <a href="https://www.couchbase.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="couchbase" width="40" height="40"/></a> 
      <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
       <a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" alt="confluence" width="40" height="40"/></a>
    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
@@ -63,6 +65,7 @@
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>     <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> 
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
   <a href="https://about.gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/></a> 
+   <a href="https://analytics.google.com/analytics/web/#/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="analytics" width="40" height="40"/></a> 
   <a href="https://gradle.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain-wordmark.svg" alt="gradle" width="40" height="40"/></a>
    <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
   <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a> 
@@ -101,8 +104,11 @@
   <a href="https://nuxtjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/></a> 
    <a href="https://www.openshift.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="40" height="40"/></a> 
  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+    <a href="https://tanzu.vmware.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pivotalio/pivotalio-icon.svg" alt="pivotal" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+   <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/></a>
+   <a href="https://www.protractortest.org/#/" target="_blank"><img src="https://www.vectorlogo.zone/logos/protractortest/protractortest-icon.svg" alt="protractor" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
    <a href="https://www.redhat.com/en" target="_blank"><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40"/></a> 
@@ -115,6 +121,8 @@
    <a href="https://www.splunk.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="splunk" width="40" height="40"/></a> 
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> 
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
+   <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a> 
+    <a href="*https://tomcat.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="tomcat" width="40" height="40"/></a> 
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="spring" width="40" height="40"/></a> 
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> 
