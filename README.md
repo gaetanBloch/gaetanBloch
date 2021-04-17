@@ -2,6 +2,7 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gaetanbloch.gaetanbloch)
 [![Years Badge](https://badges.pufler.dev/years/gaetanbloch)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/gaetanbloch)](https://badges.pufler.dev)
 
 
 ## Hello there fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
