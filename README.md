@@ -88,7 +88,7 @@
   <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
    <a href="https://www.jetbrains.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="40" height="40"/></a>
   <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
-   <a href="https://www.eclipse.org/jetty/" target="_blank"><img src="https://www.vectorlogo.zone/logos/eclipse_jetty/eclipse_jetty-ar21.svg" alt="jetty" width="40" height="40"/></a>
+   <a href="https://www.eclipse.org/jetty/" target="_blank"><img src="https://www.vectorlogo.zone/logos/eclipse_jetty/eclipse_jetty-icon.svg" alt="jetty" width="40" height="40"/></a>
     <a href="https://jfrog.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-ar21.svg" alt="jfrog" width="40" height="40"/></a>
    <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/></a> 
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a> 
