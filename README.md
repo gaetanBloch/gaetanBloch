@@ -18,13 +18,13 @@
 - I love Japan and I lived in Tokyo for 6 years 🗼
 - I'm a found of sports in general although I particularly like Volley-ball 🏐 and Badminton 🏸
 
-#### 📫 Reach me by e-mail on **[my Gmail address](mailto:gaetan.bloch+github@gmail.com)**
-#### 📄 Learn about my experiences on **[my LinkedIn resume](https://www.linkedin.com/in/gaetanbloch)**
+#### 📫  Reach me by e-mail on **[my Gmail address](mailto:gaetan.bloch+github@gmail.com)**
+#### 📄  Learn about my experiences on **[my LinkedIn resume](https://www.linkedin.com/in/gaetanbloch)**
 
-### 🌱 My Linktree
+### 🌱  My Linktree
  <p align="center"><a href="https://linktr.ee/gbloch" target="_blank"><img src="https://i.imgur.com/jsTidLM.png" alt="linktree" width="150" height="150"/></a></p>
 
-### 🔗 Connect with me
+### 🔗  Connect with me
 <p align="center" >
    <a href="https://linkedin.com/in/gaetanbloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaetanbloch" height="30" width="40" /></a>
    <a href="https://twitter.com/bloch_gaetan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bloch_gaetan" height="30" width="40" /></a>
@@ -34,7 +34,7 @@
   <a href="https://dev.to/gaetanbloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gaetanbloch" height="30" width="40" /></a>
 </p>
 
-### 👨‍💻 Languages and Tools
+### 👨‍💻  Languages and Tools
 <p align="left"> 
   <a href="https://developer.android.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://angular.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/></a>
@@ -139,7 +139,7 @@
    <a href="https://zookeeper.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg" alt="zookeeper" width="40" height="40"/></a> 
 </p>
 
-### 📈 My Github Statistics
+### 📈  My Github Statistics
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en&hide_border=true" alt="gaetanbloch"/>
