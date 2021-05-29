@@ -9,7 +9,8 @@
 
 ### Some stuff about me
 
-- I'm a Technical Lead Fullstack and Solutions Architect 👨‍💻  with more than 10 years of experience
+- I'm a Technical Lead Fullstack and Solutions Architect 👨‍💻 
+- I have more than 10 years of professional experience
 - I'm programming mostly in <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/></a> and <a href="https://nodejs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="50" height="20"/></a> for the Back End side. As for the Front End part I'm proficient with the latest versions of <a href="https://angular.io" style="text-decoration:none"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="20" height="20"/></a>   <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="20" height="20"/></a>   <a href="https://vuejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="20" height="20"/></a> 
 - I'm an employee of the consulting firm  <a href="https://www.eole-consulting.fr/" target="blank"><img src="https://i.imgur.com/ojxKqEl.png" alt="eole" width="60" height="30"/></a>  and am fully devoted to it
 -  I'm an Associate and Shareholder <a href="https://https://www.time-planet.com/en">@Time for The Planet</a> 🌍
