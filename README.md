@@ -18,7 +18,7 @@
 - I love Japan and I lived in Tokyo for 6 years 🗼
 - I'm a found of sports in general although I particularly like Volley-ball 🏐 and Badminton 🏸
 
-#### 📫  Reach me by e-mail on **[my Gmail address](mailto:gaetan.bloch+github@gmail.com)**
+#### 📫  Reach me by e-mail on **[my Personal address](mailto:gaetan.bloch@gbloch.io)**
 #### 📄  Learn about my experiences on **[my LinkedIn resume](https://www.linkedin.com/in/gaetanbloch)**
 
 ### 🌱  My Linktree
