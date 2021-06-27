@@ -9,7 +9,7 @@
 
 ### Some stuff about me
 
-- I'm a Technical Lead Fullstack and Solutions Architect 👨‍💻 
+- I'm a Technical Lead Fullstack and Software Architect 👨‍💻 
 - I have more than 10 years of professional experience
 - I'm programming mostly in <a href="https://www.java.com" target="_blank">Java</a> and <a href="https://nodejs.org" target="_blank">Node.js</a> for the Backend side. As for the Frontend part, I'm proficient with the latest versions of <a href="https://angular.io">Angular</a>, <a href="https://reactjs.org/" target="_blank">React</a> and <a href="https://vuejs.org/" target="_blank">Vue.js</a> 
 - I have made it one of my priorities to work on the [DeveSecOps](https://www.redhat.com/en/topics/devops/what-is-devsecops), as well as the [QA](https://en.wikipedia.org/wiki/Quality_assurance) software chain cycles, and to ensure that the respect best practices are applied in the projects I'm working on and within my teams
