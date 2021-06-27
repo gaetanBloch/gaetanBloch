@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/9C31ydq.jpg)
+![Banner](https://i.imgur.com/XZQZcuv.png)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gaetanbloch.gaetanbloch)
 [![Years Badge](https://badges.pufler.dev/years/gaetanbloch)](https://badges.pufler.dev)
