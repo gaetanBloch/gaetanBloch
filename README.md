@@ -5,7 +5,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/gaetanbloch)](https://badges.pufler.dev)
 
 
-## Hello there fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+## Hi fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Some stuff about me
 
