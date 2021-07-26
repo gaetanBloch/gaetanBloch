@@ -150,6 +150,9 @@
 <p>
 <br>
 
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanbloch/todo-demo-angular)
+
+
 <!-- Support -->
 <a href="https://www.buymeacoffee.com/gbloch"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="110"/></a>
 
