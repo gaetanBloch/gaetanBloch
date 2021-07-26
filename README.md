@@ -151,8 +151,27 @@
 <br>
 
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanbloch/todo-demo-angular)
-
-
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/ecommerce-spring-back)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/ecommerce-angular-front)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/angular-posts)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/Convelio-Front-ITW)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/angular-fitness)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/todo-spring-back)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/todo-angular-front)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/angular-project)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/spring5-mvc-rest)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/spring5-mvc-rest)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/Vanilla-GIS)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/gbloch-website)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/gitignore)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/spring5-recipe-app)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/nodejs-shopping)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/nodejs-posts)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/sfg-pet-clinic)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/react-burger)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/Simple-DevOps-Project)
+ 
+ 
 <!-- Support -->
 <a href="https://www.buymeacoffee.com/gbloch"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="110"/></a>
 
