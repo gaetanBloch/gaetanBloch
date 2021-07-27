@@ -18,7 +18,7 @@
 - I'm an Associate and Shareholder <a href="https://www.time-planet.com/en">@Time for The Planet</a> 🌍
 - I also work for one of the top IT services company in the world: <a href="https://www.sogeti.com/" target="blank">Capgemini</a>
 - I'm currently working on several projects for a French Governmental Agency 🏢
-- I'm also currently actively involved in a partnership with G<a href="https://wwww.geekle.us">Geekle.us</a> that organizes worldwide summits on High Tech trends, as a speaker, moderator and part of the acceptance committee for picking the relevant talks.
+- I'm also currently actively involved in a partnership with <a href="https://wwww.geekle.us">Geekle.us</a> that organizes worldwide summits on High Tech trends, as a speaker, moderator and part of the acceptance committee for picking the relevant talks.
 - I love Japan and I lived in Tokyo for 6 years 🗼
 - I'm a found of sports in general although I particularly like Volley-ball 🏐 and Badminton 🏸
 
