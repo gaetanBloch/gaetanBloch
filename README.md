@@ -152,7 +152,7 @@
 
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=Vanilla-GIS)](https://github.com/gaetanBloch/Vanilla-GIS)
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=angular-project)](https://github.com/gaetanBloch/angular-project)
-  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanboch&repo=sfg-pet-clinic)](https://github.com/gaetanBloch/sfg-pet-clinic)
+  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=sfg-pet-clinic)](https://github.com/gaetanBloch/sfg-pet-clinic)
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=angular-fitness)](https://github.com/gaetanBloch/angular-fitness)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=ecommerce-spring-back)](https://github.com/gaetanBloch/ecommerce-spring-back)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=ecommerce-angular-front)](https://github.com/gaetanBloch/ecommerce-angular-front)
