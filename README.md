@@ -20,7 +20,7 @@
 - I'm currently working on several projects for a French Governmental Agency 🏢
 - I'm also currently actively involved in a partnership with <a href="https://wwww.geekle.us">Geekle.us</a> that organizes worldwide summits on High Tech trends, as a speaker, moderator and part of the acceptance committee for picking the relevant talks.
 - I love Japan and I lived in Tokyo for 6 years 🗼
-- I'm a found of sports in general although I particularly like Volley-ball 🏐 and Badminton 🏸
+- I'm a found of sports in general although I particularly like Volley-ball and Badminton 🏐  🏸
 
 #### 📫  Reach me by e-mail on **[my Personal address](mailto:gaetan.bloch@gbloch.io)**
 #### 📄  Learn about my experiences on **[my LinkedIn resume](https://www.linkedin.com/in/gaetanbloch)**
