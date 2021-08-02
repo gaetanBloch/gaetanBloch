@@ -38,6 +38,14 @@
   <a href="https://dev.to/gaetanbloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gaetanbloch" height="30" width="40" /></a>
 </p>
 
+### Geekle Architecture Summit demo
+
+![Banner](https://i.ibb.co/3CqppQP/Frame-87.png)
+
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/todo-demo-angular)
+
+
+
 ### 👨‍💻  Languages and Tools
 <p align="left"> 
     <a href="https://www.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="amazon" width="40" height="40"/></a> 
