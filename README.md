@@ -38,7 +38,7 @@
   <a href="https://dev.to/gaetanbloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gaetanbloch" height="30" width="40" /></a>
 </p>
 
-### Geekle Architecture Summit demo
+### Geekle Architecture Summit JHipster demo
 
 ![Banner](https://i.ibb.co/3CqppQP/Frame-87.png)
 
