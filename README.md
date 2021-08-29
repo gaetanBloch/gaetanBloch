@@ -42,7 +42,7 @@
 
 ![Banner](https://i.ibb.co/3CqppQP/Frame-87.png)
 
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-demo-angular)](https://github.com/gaetanBloch/todo-demo-angular)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=jhipster-geekle-demo)](https://github.com/gaetanBloch/jhipster-geekle-demo)
 
 
 
