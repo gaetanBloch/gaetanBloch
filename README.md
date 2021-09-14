@@ -161,7 +161,7 @@
 <p>
 <br>
 
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=fr-gis)](https://github.com/gaetanBloch/fr-gis)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=odyssey)](https://github.com/gaetanBloch/odyssey)
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=angular-project)](https://github.com/gaetanBloch/angular-project)
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=sfg-pet-clinic)](https://github.com/gaetanBloch/sfg-pet-clinic)
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=angular-fitness)](https://github.com/gaetanBloch/angular-fitness)
