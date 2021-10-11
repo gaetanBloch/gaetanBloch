@@ -160,7 +160,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanbloch&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
 <p>
 <br>
-
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=newtest)](https://github.com/gaetanBloch/newtest)
+  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=nemesis)](https://github.com/gaetanBloch/nemesis)
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=odyssey)](https://github.com/gaetanBloch/odyssey)
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=angular-project)](https://github.com/gaetanBloch/angular-project)
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=sfg-pet-clinic)](https://github.com/gaetanBloch/sfg-pet-clinic)
@@ -176,7 +177,7 @@
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=nodejs-shopping)](https://github.com/gaetanBloch/nodejs-shopping)
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=nodejs-posts)](https://github.com/gaetanBloch/nodejs-posts)
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=react-burger)](https://github.com/gaetanBloch/react-burger)
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=Simple-DevOps-Project)](https://github.com/gaetanBloch/Simple-DevOps-Project)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=simply-devops)](https://github.com/gaetanBloch/simply-devops)
  
  
 <!-- Support -->
