@@ -160,7 +160,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanbloch&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
 <p>
 <br>
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=newtest)](https://github.com/gaetanBloch/newtest)
+
+  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=newtest)](https://github.com/gaetanBloch/newtest)
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=nemesis)](https://github.com/gaetanBloch/nemesis)
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=odyssey)](https://github.com/gaetanBloch/odyssey)
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=angular-project)](https://github.com/gaetanBloch/angular-project)
