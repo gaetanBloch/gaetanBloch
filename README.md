@@ -6,8 +6,8 @@
 
 ### Some stuff about me
 
-- I'm a Technical Lead Fullstack and Software Architect 👨‍💻 
-- I have more than 10 years of professional experience
+- I'm a Senior Software Engineer 👨‍💻 
+- I have more than 11 years of professional experience
 - I'm programming mostly in <a href="https://www.java.com" target="_blank">Java</a> and <a href="https://nodejs.org" target="_blank">Node.js</a> for the Backend side. As for the Frontend part, I'm proficient with the latest versions of <a href="https://angular.io">Angular</a> and <a href="https://reactjs.org/" target="_blank">React</a>
 - I have made it one of my priorities to work on the [DevSecOps](https://www.redhat.com/en/topics/devops/what-is-devsecops), as well as the [QA](https://en.wikipedia.org/wiki/Quality_assurance) software chain cycles, and to ensure that the respect best practices are applied in the projects I'm working on and within my teams
 - I am an adept of [Agile](https://en.wikipedia.org/wiki/Agile_software_development) [Software Craftsmanship](https://en.wikipedia.org/wiki/Software_craftsmanship) and its [Clean Code Manifesto](https://manifesto.softwarecraftsmanship.org/)
@@ -16,7 +16,7 @@
 - I love Japan and I lived in Tokyo for 6 years 🗼
 - I'm a found of sports in general although I particularly like Volley-ball and Badminton 🏐  🏸
 
-#### 📫  Reach me by e-mail on **[my Personal address](mailto:gaetan.bloch@gmail.com)**
+#### 📫  Reach me by e-mail on **[my Personal address](mailto:gbloch@gaetan-bloch.com)**
 #### 📄  Learn about my experiences on **[my LinkedIn resume](https://www.linkedin.com/in/gaetanbloch)**
 
 ### 🌱  My Linktree
@@ -26,10 +26,7 @@
 <p align="center" >
    <a href="https://linkedin.com/in/gaetanbloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaetanbloch" height="30" width="40" /></a>
    <a href="https://twitter.com/bloch_gaetan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bloch_gaetan" height="30" width="40" /></a>
-   <a href="https://instagram.com/gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gaetan.bloch" height="30" width="40" /></a>
-   <a href="https://fb.com/gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gaetan.bloch" height="30" width="40" /></a>
    <a href="https://medium.com/@gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gaetan.bloch" height="30" width="40" /></a>
-  <a href="https://dev.to/gaetanbloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gaetanbloch" height="30" width="40" /></a>
 </p>
 
 ### Geekle Architecture Summit JHipster demo
