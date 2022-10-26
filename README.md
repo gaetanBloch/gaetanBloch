@@ -155,21 +155,23 @@
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=newtest)](https://github.com/gaetanBloch/newtest)
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=nemesis)](https://github.com/gaetanBloch/nemesis)
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=odyssey)](https://github.com/gaetanBloch/odyssey)
+  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=stargazer)](https://github.com/gaetanBloch/stargazer)
+   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=stargazer)](https://github.com/gaetanBloch/mower)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=ecommerce-angular-front)](https://github.com/gaetanBloch/ecommerce-angular-front)
+  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=nodejs-shopping)](https://github.com/gaetanBloch/nodejs-shopping)
+  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-angular-front)](https://github.com/gaetanBloch/todo-angular-front)
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=angular-project)](https://github.com/gaetanBloch/angular-project)
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=sfg-pet-clinic)](https://github.com/gaetanBloch/sfg-pet-clinic)
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=angular-fitness)](https://github.com/gaetanBloch/angular-fitness)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=ecommerce-spring-back)](https://github.com/gaetanBloch/ecommerce-spring-back)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=ecommerce-angular-front)](https://github.com/gaetanBloch/ecommerce-angular-front)
+
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=angular-posts)](https://github.com/gaetanBloch/angular-posts)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-spring-back)](https://github.com/gaetanBloch/todo-spring-back)
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-angular-front)](https://github.com/gaetanBloch/todo-angular-front)
+
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=spring5-mvc-rest)](https://github.com/gaetanBloch/spring5-mvc-rest)
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=gitignore)](https://github.com/gaetanBloch/gitignore)
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=spring5-recipe-app)](https://github.com/gaetanBloch/spring5-recipe-app)
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=nodejs-shopping)](https://github.com/gaetanBloch/nodejs-shopping)
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=nodejs-posts)](https://github.com/gaetanBloch/nodejs-posts)
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=react-burger)](https://github.com/gaetanBloch/react-burger)
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=simply-devops)](https://github.com/gaetanBloch/simply-devops)
  
  
 <!-- Support -->
