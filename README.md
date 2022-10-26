@@ -153,9 +153,9 @@
 <br>
 
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=newtest)](https://github.com/gaetanBloch/newtest)
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=odyssey)](https://github.com/gaetanBloch/odyssey)
+   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=stargazer)](https://github.com/gaetanBloch/stargazer)
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=nemesis)](https://github.com/gaetanBloch/nemesis)
-  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=stargazer)](https://github.com/gaetanBloch/stargazer)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=odyssey)](https://github.com/gaetanBloch/odyssey)
    [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=mower)](https://github.com/gaetanBloch/mower)
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=ecommerce-angular-front)](https://github.com/gaetanBloch/ecommerce-angular-front)
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=nodejs-shopping)](https://github.com/gaetanBloch/nodejs-shopping)
