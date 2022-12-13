@@ -29,14 +29,6 @@
    <a href="https://medium.com/@gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gaetan.bloch" height="30" width="40" /></a>
 </p>
 
-### Geekle Architecture Summit JHipster demo
-
-![Banner](https://i.ibb.co/3CqppQP/Frame-87.png)
-
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=jhipster-geekle-demo)](https://github.com/gaetanBloch/jhipster-geekle-demo)
-
-
-
 ### 👨‍💻  Languages and Tools
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
@@ -124,6 +116,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanbloch&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
 <p>
 <br>
+ 
+ ### Geekle Architecture Summit JHipster demo
+
+![Banner](https://i.ibb.co/3CqppQP/Frame-87.png)
+
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=jhipster-geekle-demo)](https://github.com/gaetanBloch/jhipster-geekle-demo)
+
+
  
  
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=falcon-challenge)](https://github.com/gaetanBloch/falcon-challenge)
