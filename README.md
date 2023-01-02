@@ -117,15 +117,18 @@
   <img height="180em" src="https://github-readme-stats-gaetanbloch.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en&theme=swift&count_private=true" alt="gaetanbloch"/>
   <img height="180em" src="https://github-readme-stats-gaetanbloch.vercel.app/api/top-langs/?username=gaetanbloch&show_icons=true&theme=swift&count_private=true&layout=compact&langs_count=8"/> 
 <p>
+ 
+ 
+ [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gaetanbloch&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
+ 
+ 
 <br>
  
  ### Geekle Architecture Summit JHipster demo
 
- <p align="center">
+  
 ![Banner](https://i.ibb.co/3CqppQP/Frame-87.png)
-
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=jhipster-geekle-demo&hide_border=true)](https://github.com/gaetanBloch/jhipster-geekle-demo)
-</p.
 
  
  
