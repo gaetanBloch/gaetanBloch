@@ -123,6 +123,9 @@
  
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaetanbloch"></img>
  
+ <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=gaetanbloch&skills=Java,TypeScript,JavaScript,SCSS,CSS,HTML" width="auto"></img>
+ 
+ <p align="center"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gaetanbloch&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/></p>
  
 <br>
  
