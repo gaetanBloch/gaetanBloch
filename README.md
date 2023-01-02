@@ -121,10 +121,11 @@
  
  ### Geekle Architecture Summit JHipster demo
 
+ <p align="center">
 ![Banner](https://i.ibb.co/3CqppQP/Frame-87.png)
 
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=jhipster-geekle-demo&hide_border=true)](https://github.com/gaetanBloch/jhipster-geekle-demo)
-
+</p.
 
  
  
