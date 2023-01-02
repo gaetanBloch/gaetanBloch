@@ -112,8 +112,8 @@
 ### 📈  My Github Statistics
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en&hide_border=true" alt="gaetanbloch"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanbloch&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+  <img height="180em" src="https://github-readme-stats-gaetanbloch.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en&hide_border=true" alt="gaetanbloch"/>
+  <img height="180em" src="https://github-readme-stats-gaetanbloch.vercel.app/api/top-langs/?username=gaetanbloch&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
 <p>
 <br>
  
