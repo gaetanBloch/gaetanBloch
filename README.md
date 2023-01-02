@@ -1,8 +1,11 @@
 ![Banner](https://i.imgur.com/XZQZcuv.png)
 
+<p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=D81C28&background=FFFFFF00&center=true&vCenter=true&width=500&lines=French+Distinguished+Software+Engineer;10%2B+years+of+professional+experience;JAVA+Enthusiast;International+Speaker)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=D81C28&background=FFFFFF00&center=true&vCenter=true&width=500&lines=French+Distinguished+Software+Engineer;10%2B+years+of+professional+experience;JAVA+Enthusiast;International+Speaker)](https://git.io/typing-svg)
 
+ </p>
+ 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gaetanbloch.gaetanbloch)
 
 ## Hi fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
