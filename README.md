@@ -1,10 +1,6 @@
 ![Banner](https://i.imgur.com/XZQZcuv.png)
 
-<p align="center">
-
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=D81C28&background=FFFFFF00&center=true&vCenter=true&width=500&lines=French+Distinguished+Software+Engineer;10%2B+years+of+professional+experience;JAVA+Enthusiast;International+Speaker)](https://git.io/typing-svg)
-
- </p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=D81C28&center=true&vCenter=true&width=500&lines=French+Distinguished+Software+Engineer;10%2B+years+of+professional+experience;JAVA+Enthusiast;International+Speaker" alt="Typing SVG" /></a></p>
  
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gaetanbloch.gaetanbloch)
 
@@ -143,7 +139,6 @@
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=angular-fitness&hide_border=true)](https://github.com/gaetanBloch/angular-fitness)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=ecommerce-spring-back&hide_border=true)](https://github.com/gaetanBloch/ecommerce-spring-back)
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=spring5-recipe-app&hide_border=true)](https://github.com/gaetanBloch/spring5-recipe-app)
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=nodejs-posts&hide_border=true)](https://github.com/gaetanBloch/nodejs-posts)
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=react-burger&hide_border=true)](https://github.com/gaetanBloch/react-burger)
  
  
