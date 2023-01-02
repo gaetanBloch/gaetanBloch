@@ -121,6 +121,8 @@
  
  [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gaetanbloch&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
  
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaetanbloch"></img>
+ 
  
 <br>
  
