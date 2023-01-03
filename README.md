@@ -2,7 +2,9 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&size=25&pause=1000&color=D81C28&center=true&vCenter=true&width=600&lines=French+Distinguished+Software+Engineer;10%2B+years+of+professional+experience;JAVA+Enthusiast;International+Speaker" alt="Typing SVG" /></a></p>
  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=gaetanbloch.gaetanbloch)
+<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=gaetanbloch.gaetanbloch)-->
+
+<div align="center"><span>Visitors:<br><br><img src="https://profile-counter.glitch.me/gaetanbloch/count.svg"></span></div>
 
 ## Hi fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
