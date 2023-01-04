@@ -125,7 +125,7 @@
  
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaetanbloch"></img>
  
- <p align="left"><img width="800" height="500" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=gaetanbloch&show-other-skills=true&skills=Java,TypeScript,JavaScript,SCSS,C,Python" width="auto"></img></p>
+ <p align="left"><img width="800" height="500" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=gaetanbloch&show-other-skills=true&skills=Java,TypeScript,JavaScript,SCSS,css,less,html,C,Python,batchfile,json,xml" width="auto"></img></p>
  
  <p align="left"><img width="500" height="250" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gaetanbloch&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"/></p>
  
