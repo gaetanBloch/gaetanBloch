@@ -6,6 +6,10 @@
 
 <div align="center"><span>Visitors:<br><br><img src="https://profile-counter.glitch.me/gaetanbloch/count.svg"></span></div>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=gaetanbloch&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
+
 ## Hi fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Some stuff about me
