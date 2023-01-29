@@ -142,6 +142,8 @@
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=jhipster-geekle-demo&hide_border=true)](https://github.com/gaetanBloch/jhipster-geekle-demo)
 
  
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=ng-beginner&hide_border=true)](https://github.com/gaetanBloch/ng-beginner)
+ 
  
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=falcon-challenge&hide_border=true)](https://github.com/gaetanBloch/falcon-challenge)
      [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=stargazer&hide_border=true)](https://github.com/gaetanBloch/stargazer)
