@@ -17,7 +17,7 @@
 - I'm a Senior Software Engineer 👨‍💻 
 - I have more than 11 years of professional experience
 - I'm programming mostly in <a href="https://www.java.com" target="_blank">Java</a> and <a href="https://nodejs.org" target="_blank">Node.js</a> for the Backend side. As for the Frontend part, I'm proficient with the latest versions of <a href="https://angular.io">Angular</a> and <a href="https://reactjs.org/" target="_blank">React</a>
-- I have made it one of my priorities to work on the [DevSecOps](https://www.redhat.com/en/topics/devops/what-is-devsecops), as well as the [QA](https://en.wikipedia.org/wiki/Quality_assurance) software chain cycles, and to ensure that the respect best practices are applied in the projects I'm working on and within my teams
+- I have made it one of my priorities to work on the [DevSecOps](https://www.redhat.com/en/topics/devops/what-is-devsecops), as well as the [QA](https://en.wikipedia.org/wiki/Quality_assurance) on CICD pipelines, and to ensure that the respect best practices are applied in the projects I'm working on and within my teams
 - I am an adept of [Agile](https://en.wikipedia.org/wiki/Agile_software_development) [Software Craftsmanship](https://en.wikipedia.org/wiki/Software_craftsmanship) and its [Clean Code Manifesto](https://manifesto.softwarecraftsmanship.org/)
 - I'm an Associate and Shareholder <a href="https://www.time-planet.com/en">@Time for The Planet</a> 🌍
 - I'm also currently actively involved in a partnership with <a href="https://wwww.geekle.us">Geekle.us</a> that organizes worldwide summits on High Tech trends, as a speaker, moderator and part of the acceptance committee for picking the relevant talks.
