@@ -1,21 +1,24 @@
 ![Banner](https://i.imgur.com/XZQZcuv.png)
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&size=25&pause=1000&color=D81C28&center=true&vCenter=true&width=600&lines=Software+Engineer;Software+Architect;11%2B+years+of+professional+experience;Java+Enthusiast;International+Speaker" alt="Typing SVG" /></a></p>
- 
-<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=gaetanbloch.gaetanbloch)-->
-
-<!--<div align="center"><span>Visitors:<br><br><img src="https://profile-counter.glitch.me/gaetanbloch/count.svg"></span></div>-->
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&size=25&pause=1000&color=D81C28&center=true&vCenter=true&width=600&lines=Software+Engineer;Solutions+Architect;Polyglot Developer;International+Speaker;11%2B+years+of+professional+experience" alt="Typing SVG" /></a></p>
 
 <div align="center">
- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=gaetanbloch&label=Profile%20Views&color=12&icon=0&pretty=false" />
-</a>
+
+[![visitors](https://visitcount.itsvg.in/api?id=gaetanbloch&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in/api?id=gaetanbloch&label=Profile%20Views&color=12&icon=0&pretty=false)
 
 [![wakatime](https://wakatime.com/badge/user/b822352f-1f93-440b-867b-c48c4b093191.svg)](https://wakatime.com/@b822352f-1f93-440b-867b-c48c4b093191)
 
+![GitHub followers](https://img.shields.io/github/followers/gaetanbloch.svg?style=social&label=Follow&maxAge=2592000)
+
+[![Linkedin: gaetanbloch](https://img.shields.io/badge/-gaetanbloch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaetanbloch/)](https://www.linkedin.com/in/gaetanbloch/)
+[![Twitter: bloch_gaetan](https://img.shields.io/twitter/follow/bloch_gaetan?style=social)](https://twitter.com/bloch_gaetan)
+[![Medium: gaetan.bloch](https://img.shields.io/badge/-gaetan.bloch-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@gaetan-bloch)](https://medium.com/@gaetan-bloch)
+[![Youtube: gaetanbloch](https://img.shields.io/youtube/channel/views/UC_h7fif9giqiWYje11F1YMg?style=social)](https://www.youtube.com/channel/UC_h7fif9giqiWYje11F1YMg)
+
+
 </div>
 
-## Hi fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+## Hi fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜／> ! I'm Gaëtan Bloch 👋
 
 ### Some stuff about me
 
@@ -33,13 +36,10 @@
 #### 📄  Learn about my experiences on **[my LinkedIn resume](https://www.linkedin.com/in/gaetanbloch)**
 
 ### 🌱  My Linktree
- <p align="center"><a href="https://linktr.ee/gbloch" target="_blank"><img src="https://i.imgur.com/jsTidLM.png" alt="linktree" width="150" height="150"/></a></p>
-
-### 🔗  Connect with me
-<p align="center" >
-   <a href="https://linkedin.com/in/gaetanbloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaetanbloch" height="30" width="40" /></a>
-   <a href="https://twitter.com/bloch_gaetan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bloch_gaetan" height="30" width="40" /></a>
-   <a href="https://medium.com/@gaetan.bloch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gaetan.bloch" height="30" width="40" /></a>
+ <p align="center">
+<a href="https://linktr.ee/gbloch" target="_blank">
+<img src="https://i.imgur.com/jsTidLM.png" alt="linktree" width="150" height="150"/>
+</a>
 </p>
 
 ### 👨‍💻  Languages and Tools
