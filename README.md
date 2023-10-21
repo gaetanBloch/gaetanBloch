@@ -137,29 +137,29 @@
 
 ----
 
- ### Geekle Architecture Summit JHipster demo
+ ### Conference talks
 
-![Banner](https://i.ibb.co/3CqppQP/Frame-87.png)
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=jhipster-geekle-demo&hide_border=true&theme=transparent)](https://github.com/gaetanBloch/jhipster-geekle-demo)
+<p align="center">
+
+
+<a href="https://linktr.ee/gbloch" target="_blank">
+<img src="https://i.ibb.co/3CqppQP/Frame-87.png" alt="linktree"/>
+</a>
+<br/>
+<br/>
+<a href="https://linktr.ee/gbloch" target="_blank">
+<img src="https://i.imgur.com/7xDztgy.jpg" width="700" alt="linktree"/>
+</a>
+
+
+
+
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=jhipster-geekle-demo&hide_border=true&theme=transparent)](https://github.com/gaetanBloch/jhipster-geekle-demo)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=meal-order&hide_border=true&theme=transparent)](https://github.com/gaetanBloch/jhipster-geekle-demo)
+
+</p>
 
 ----
- 
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=ng-beginner&hide_border=true)](https://github.com/gaetanBloch/ng-beginner)
-  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=meal-order&hide_border=true)](https://github.com/gaetanBloch/meal-order)
- 
- 
-  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=falcon-challenge&hide_border=true)](https://github.com/gaetanBloch/falcon-challenge)
-     [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=stargazer&hide_border=true)](https://github.com/gaetanBloch/stargazer)
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=newtest&hide_border=true)](https://github.com/gaetanBloch/newtest)
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=ecommerce-angular-front&hide_border=true)](https://github.com/gaetanBloch/ecommerce-angular-front)
-    [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=odyssey&hide_border=true)](https://github.com/gaetanBloch/odyssey)
-     [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=mower&hide_border=true)](https://github.com/gaetanBloch/mower)
-  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=nodejs-shopping&hide_border=true)](https://github.com/gaetanBloch/nodejs-shopping)
-  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=todo-angular-front&hide_border=true)](https://github.com/gaetanBloch/todo-angular-front)
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=angular-fitness&hide_border=true)](https://github.com/gaetanBloch/angular-fitness)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=ecommerce-spring-back&hide_border=true)](https://github.com/gaetanBloch/ecommerce-spring-back)
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=spring5-recipe-app&hide_border=true)](https://github.com/gaetanBloch/spring5-recipe-app)
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=react-burger&hide_border=true)](https://github.com/gaetanBloch/react-burger)
  
  
 <!-- Support -->
