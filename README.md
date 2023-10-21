@@ -8,8 +8,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/b822352f-1f93-440b-867b-c48c4b093191.svg)](https://wakatime.com/@b822352f-1f93-440b-867b-c48c4b093191)
 
-![GitHub followers](https://img.shields.io/github/followers/gaetanbloch.svg?style=social&label=Follow&maxAge=2592000)
-
 [![Linkedin: gaetanbloch](https://img.shields.io/badge/-gaetanbloch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaetanbloch/)](https://www.linkedin.com/in/gaetanbloch/)
 [![Twitter: bloch_gaetan](https://img.shields.io/twitter/follow/bloch_gaetan?style=social)](https://twitter.com/bloch_gaetan)
 [![Medium: gaetan.bloch](https://img.shields.io/badge/-gaetan.bloch-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@gaetan-bloch)](https://medium.com/@gaetan-bloch)
@@ -35,12 +33,15 @@
 #### 📫  Reach me by e-mail on **[my Personal address](mailto:gbloch@gaetan-bloch.com)**
 #### 📄  Learn about my experiences on **[my LinkedIn resume](https://www.linkedin.com/in/gaetanbloch)**
 
+-----
 ### 🌱  My Linktree
  <p align="center">
 <a href="https://linktr.ee/gbloch" target="_blank">
 <img src="https://i.imgur.com/jsTidLM.png" alt="linktree" width="150" height="150"/>
 </a>
 </p>
+
+----
 
 ### 👨‍💻  Languages and Tools
 <p align="left"> 
@@ -122,24 +123,26 @@
    <a href="https://zookeeper.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg" alt="zookeeper" width="40" height="40"/></a> 
 </p>
 
+-----
+
 ### 📈  My Github Statistics
 
 <p>
-  <img height="180em" src="https://github-readme-stats-gaetanbloch.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en&theme=swift&count_private=true" alt="gaetanbloch"/>
+
+![Gaëtan Bloch's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&theme=transparent&count_private=true&show=prs_merged,prs_merged_percentage)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanbloch&layout=compact&theme=transparent)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gaetanbloch&theme=tokyonight-duo&background=00000000)](https://git.io/streak-stats)
- 
-  <img height="180em" src="https://github-readme-stats-gaetanbloch.vercel.app/api/top-langs/?username=gaetanbloch&show_icons=true&theme=swift&count_private=true&layout=compact&langs_count=8"/> 
-<p>
- 
-<br>
- 
+
+----
+
  ### Geekle Architecture Summit JHipster demo
 
-  
 ![Banner](https://i.ibb.co/3CqppQP/Frame-87.png)
- [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=jhipster-geekle-demo&hide_border=true)](https://github.com/gaetanBloch/jhipster-geekle-demo)
+ [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=jhipster-geekle-demo&hide_border=true&theme=transparent)](https://github.com/gaetanBloch/jhipster-geekle-demo)
 
+----
  
  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=ng-beginner&hide_border=true)](https://github.com/gaetanBloch/ng-beginner)
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=meal-order&hide_border=true)](https://github.com/gaetanBloch/meal-order)
