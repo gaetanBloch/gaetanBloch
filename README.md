@@ -154,7 +154,7 @@
 
 
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=jhipster-geekle-deo&hide_border=true&theme=transparent)](https://github.com/gaetanBloch/jhipster-geekle-demo)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=jhipster-geekle-demo&hide_border=true&theme=transparent)](https://github.com/gaetanBloch/jhipster-geekle-demo)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=meal-order&hide_border=true&theme=transparent)](https://github.com/gaetanBloch/jhipster-geekle-demo)
 
 </p>
