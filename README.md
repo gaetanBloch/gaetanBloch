@@ -6,9 +6,14 @@
 
 <!--<div align="center"><span>Visitors:<br><br><img src="https://profile-counter.glitch.me/gaetanbloch/count.svg"></span></div>-->
 
-<div align="center"><a href="https://visitcount.itsvg.in">
+<div align="center">
+ <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=gaetanbloch&label=Profile%20Views&color=12&icon=0&pretty=false" />
-</a></div>
+</a>
+
+[![wakatime](https://wakatime.com/badge/user/b822352f-1f93-440b-867b-c48c4b093191.svg)](https://wakatime.com/@b822352f-1f93-440b-867b-c48c4b093191)
+
+</div>
 
 ## Hi fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -16,7 +21,7 @@
 
 - I'm a Software Engineer and Architect 👨‍💻 
 - I have more than 11 years of professional experience
-- I'm programming mostly in <a href="https://www.java.com" target="_blank">Java</a> and <a href="https://nodejs.org" target="_blank">Node.js</a> for the Backend side. As for the Frontend part, I'm proficient with the latest versions of <a href="https://angular.io">Angular</a> and <a href="https://reactjs.org/" target="_blank">React</a>
+<!--- I'm programming mostly in <a href="https://www.java.com" target="_blank">Java</a> and <a href="https://nodejs.org" target="_blank">Node.js</a> for the Backend side. As for the Frontend part, I'm proficient with the latest versions of <a href="https://angular.io">Angular</a> and <a href="https://reactjs.org/" target="_blank">React</a>-->
 - I offer solutions to address project challenges in areas such as development, architecture, integration, configuration, deployment, observability, and evolution.
 - I have encountered a range of software architectures, from straightforward monoliths to intricate microservices, micro frontends, and serverless systems, whether on-premise or cloud-native.
 - I'm an Associate and Shareholder <a href="https://www.time-planet.com/en">@Team for The Planet</a> 🌍
@@ -121,6 +126,9 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats-gaetanbloch.vercel.app/api?username=gaetanbloch&show_icons=true&locale=en&theme=swift&count_private=true" alt="gaetanbloch"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gaetanbloch&theme=tokyonight-duo&background=00000000)](https://git.io/streak-stats)
+ 
   <img height="180em" src="https://github-readme-stats-gaetanbloch.vercel.app/api/top-langs/?username=gaetanbloch&show_icons=true&theme=swift&count_private=true&layout=compact&langs_count=8"/> 
 <p>
  
