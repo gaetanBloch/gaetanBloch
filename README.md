@@ -33,7 +33,6 @@
 #### 📫  Reach me by e-mail on **[my Personal address](mailto:gbloch@gaetan-bloch.com)**
 #### 📄  Learn about my experiences on **[my LinkedIn resume](https://www.linkedin.com/in/gaetanbloch)**
 
------
 ## 🌱 My Linktree
  <p align="center">
 <a href="https://linktr.ee/gbloch" target="_blank">
@@ -41,7 +40,6 @@
 </a>
 </p>
 
-----
 
 ## 👨‍💻 Languages and Tools
 
@@ -130,9 +128,8 @@
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> 
   <a href="https://webpack.js.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/></a> 
    <a href="https://zookeeper.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg" alt="zookeeper" width="40" height="40"/></a>
------
 
-### 📈  My Github Statistics
+## 📈  My Github Statistics
 
 <p>
 
@@ -142,9 +139,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gaetanbloch&theme=tokyonight-duo&background=00000000)](https://git.io/streak-stats)
 
-----
 
- ### Conference talks
+ ## Conference talks
 
 <p align="center">
 
