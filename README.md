@@ -16,13 +16,13 @@
 
 </div>
 
-## Hi fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜／> ! I'm Gaëtan Bloch 👋
+## Hi fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜／> I'm Gaëtan Bloch 👋
 
 ### Some stuff about me
 
 - I'm a Software Engineer and Architect 👨‍💻 
 - I have more than 11 years of professional experience
-<!--- I'm programming mostly in <a href="https://www.java.com" target="_blank">Java</a> and <a href="https://nodejs.org" target="_blank">Node.js</a> for the Backend side. As for the Frontend part, I'm proficient with the latest versions of <a href="https://angular.io">Angular</a> and <a href="https://reactjs.org/" target="_blank">React</a>-->
+- I am a polyglot developer, I have worked with Java, JavaScript, TypeScript, Rust, C++, C, Python, Go, Kotlin, Scala, PHP, Bash, SQL, HTML, CSS, and more.
 - I offer solutions to address project challenges in areas such as development, architecture, integration, configuration, deployment, observability, and evolution.
 - I have encountered a range of software architectures, from straightforward monoliths to intricate microservices, micro frontends, and serverless systems, whether on-premise or cloud-native.
 - I'm an Associate and Shareholder <a href="https://www.time-planet.com/en">@Team for The Planet</a> 🌍
@@ -45,10 +45,11 @@
 
 ### Languages
 
-<a href="https://www.java.com"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" style="background-color: white;"/></a>
+<a href="https://dev.java/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" style="background-color: white;"/></a>
 <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
 <a href="#"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40" height="40" style="background-color: white;"/></a>
+<a href="#" style="background-color: white; height: 40px; display:inline-block"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40"/></a>
 
 
 
@@ -162,9 +163,7 @@
 
 </p>
 
-----
- 
- 
+
 <!-- Support -->
 <a href="https://www.buymeacoffee.com/gbloch"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="110"/></a>
 
