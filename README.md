@@ -34,7 +34,7 @@
 #### 📄  Learn about my experiences on **[my LinkedIn resume](https://www.linkedin.com/in/gaetanbloch)**
 
 -----
-### 🌱  My Linktree
+## 🌱 My Linktree
  <p align="center">
 <a href="https://linktr.ee/gbloch" target="_blank">
 <img src="https://i.imgur.com/jsTidLM.png" alt="linktree" width="150" height="150"/>
@@ -43,9 +43,18 @@
 
 ----
 
-### 👨‍💻  Languages and Tools
-<p align="left"> 
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
+## 👨‍💻 Languages and Tools
+
+### Languages
+
+<a href="https://www.java.com"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" style="background-color: white;"/></a>
+<a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40" height="40" style="background-color: white;"/></a>
+
+
+
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
    <a href="https://hibernate.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="heroku" width="40" height="40"/></a> 
    <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> 
  
@@ -120,9 +129,7 @@
    <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a> 
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> 
   <a href="https://webpack.js.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/></a> 
-   <a href="https://zookeeper.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg" alt="zookeeper" width="40" height="40"/></a> 
-</p>
-
+   <a href="https://zookeeper.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg" alt="zookeeper" width="40" height="40"/></a>
 -----
 
 ### 📈  My Github Statistics
