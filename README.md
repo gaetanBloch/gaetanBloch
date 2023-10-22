@@ -164,20 +164,73 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gin.svg" width="40" height="40"/>
 </a>
 <a href="#">
-<img src="https://docs.airbrake.io/platforms/go/beego.png" width="40" height="40"/>
+<img src="https://docs.airbrake.io/platforms/go/beego.png" width="60" height="40"/>
 </a>
 <a href="#">
-<img src="https://upload.vectorlogo.zone/logos/fiberwiki/images/2a76306a-d074-4ae7-8694-c03bc03c6201.svg" width="40" height="40"/>
+<img src="https://upload.vectorlogo.zone/logos/fiberwiki/images/2a76306a-d074-4ae7-8694-c03bc03c6201.svg" width="60" height="40"/>
 </a>
 <a href="#">
-<img src="" width="40" height="40"/>
-</a>
-
-<a href="#">
-<img src="" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/zeromicro/zero-doc/main/doc/images/go-zero.png" width="40" height="40"/>
 </a>
 <a href="#">
-<img src="" width="40" height="40"/>
+<img src="https://encore.dev/assets/resources/go_kit.png" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://gorm.io/gorm.svg" width="60" height="40"/>
+</a>
+<a href="#">
+<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/t/tauri-1.svg" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://tokio.rs/img/icons/tokio.svg" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://www.vectorlogo.zone/logos/dieselrs/dieselrs-icon.svg" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://rocket.rs/v0.4/images/logo-boxed.png" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://pypi-camo.global.ssl.fastly.net/feaed7d398f1aa8b7b7bd67f9d3c450494cb2bf2/68747470733a2f2f7363726170792e6f72672f696d672f7363726170796c6f676f2e706e67" width="70" height="40"/>
+</a>
+<a href="#">
+<img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/09/bottle-framework.png" width="80" height="40"/>
+</a>
+<a href="#">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/aiohttp.svg" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40"/>
+</a>
+<a href="#">
+<img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" width="40" height="40"/>
 </a>
 
 ### Frontend
