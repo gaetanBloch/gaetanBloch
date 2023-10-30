@@ -118,9 +118,10 @@
 </a>
 
 ### Backend
-<a href="#">
+<a href="#" target="_blank">
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/quarkus-icon.svg" width="40" height="40"/>
 </a>
+
 <a href="#">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </a>
