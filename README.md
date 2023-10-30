@@ -52,15 +52,9 @@
 
 ### Languages
 
-<a href="https://dev.java/">
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.javascript.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
+<a href="https://dev.java/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/></a>
+<a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
 <a href="https://go.dev/doc/">
 <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40"/>
 </a>
