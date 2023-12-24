@@ -4,8 +4,6 @@
 
 <div align="center">
 
-[![visitors](https://visitcount.itsvg.in/api?id=gaetanbloch&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in/api?id=gaetanbloch&label=Profile%20Views&color=12&icon=0&pretty=false)
-
 [![wakatime](https://wakatime.com/badge/user/b822352f-1f93-440b-867b-c48c4b093191.svg)](https://wakatime.com/@b822352f-1f93-440b-867b-c48c4b093191)
 
 [![Linkedin: gaetanbloch](https://img.shields.io/badge/-gaetanbloch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaetanbloch/)](https://www.linkedin.com/in/gaetanbloch/)
