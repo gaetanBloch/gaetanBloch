@@ -53,61 +53,25 @@
 <a href="https://dev.java/"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/></a>
 <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-<a href="https://go.dev/doc/">
-<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40"/>
-</a>
-<a href="https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html">
-<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-</a>
-<a href="https://en.cppreference.com/w/cpp/language">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a> 
-<a href="https://learn.microsoft.com/en-us/cpp/c-language/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.python.org/doc/">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://kotlinlang.org/docs/home.html">
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://docs.scala-lang.org/">
-<img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://ziglang.org/documentation/master/">
-<img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.php.net/manual/en/index.php">
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://devdocs.io/bash/">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference">
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40"/>
-</a>
+<a href="https://go.dev/doc/"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40"/></a>
+<a href="https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
+<a href="https://en.cppreference.com/w/cpp/language"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a> 
+<a href="https://learn.microsoft.com/en-us/cpp/c-language/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+<a href="https://www.python.org/doc/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/></a>
+<a href="https://kotlinlang.org/docs/home.html"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>
+<a href="https://docs.scala-lang.org/"><img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" width="40" height="40"/></a>
+<a href="https://ziglang.org/documentation/master/"><img src="https://www.vectorlogo.zone/logos/ziglang/ziglang-icon.svg" width="40" height="40"/></a>
+<a href="https://www.php.net/manual/en/index.php"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="40" height="40"/></a>
+<a href="https://devdocs.io/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40"/></a>
 <br/>
-<a href="https://v2.ocaml.org/docs/">
-<img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://clojure.org/guides/learn/clojure">
-<img src="https://www.vectorlogo.zone/logos/clojure/clojure-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.haskell.org/documentation/">
-<img src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://elm-lang.org/docs">
-<img src="https://www.vectorlogo.zone/logos/elm-lang/elm-lang-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://elixir-lang.org/docs.html">
-<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" width="40" height="40"/>
-</a>
+<a href="https://v2.ocaml.org/docs/"><img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-icon.svg" width="40" height="40"/></a>
+<a href="https://clojure.org/guides/learn/clojure"><img src="https://www.vectorlogo.zone/logos/clojure/clojure-icon.svg" width="40" height="40"/></a>
+<a href="https://www.haskell.org/documentation/"><img src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg" width="40" height="40"/></a>
+<a href="https://elm-lang.org/docs"><img src="https://www.vectorlogo.zone/logos/elm-lang/elm-lang-icon.svg" width="40" height="40"/></a>
+<a href="https://elixir-lang.org/docs.html"><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" width="40" height="40"/></a>
 
 ### Backend
 <a href="#" target="_blank">
@@ -411,9 +375,12 @@
 
 <p>
 
-![Gaëtan Bloch's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&theme=transparent&count_private=true&show=prs_merged,prs_merged_percentage)
+<!--![Gaëtan Bloch's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&theme=transparent&count_private=true&show=prs_merged,prs_merged_percentage)-->
+![Gaëtan Bloch's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaetanBloch&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanbloch&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanBloch&layout=compact&theme=transparent&hide=css,less,scala)
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanbloch&layout=compact&theme=transparent)-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gaetanbloch&theme=tokyonight-duo&background=00000000)](https://git.io/streak-stats)
 
