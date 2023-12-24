@@ -16,6 +16,8 @@
 
 # Hi fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜／> I'm Gaëtan Bloch 👋
 
+### See [My personal website](https://gaetan-bloch.com)
+
 ## Some stuff about me
 
 - I'm a Software Engineer and Architect 👨‍💻
