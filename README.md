@@ -1,6 +1,6 @@
 ![Banner](https://i.imgur.com/XZQZcuv.png)
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&size=25&pause=1000&color=D81C28&center=true&vCenter=true&width=600&lines=Software+Engineer;Solutions+Architect;Polyglot Developer;International+Speaker;11%2B+years+of+professional+experience" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&size=25&pause=1000&color=D81C28&center=true&vCenter=true&width=600&lines=Software+Engineer;Solutions+Architect;SeniorSoftware+Architect;Cloud+Practitioner;Polyglot Developer;International+Speaker;12%2B+years+of+professional+experience" alt="Typing SVG" /></a></p>
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 ## Some stuff about me
 
-- I'm a Software Engineer and Architect 👨‍💻
+- I'm a Senior Software Engineer and Architect 👨‍💻
 - I have more than 11 years of professional experience
 - I am a polyglot developer, I have worked with Java, JavaScript, TypeScript, C#, Rust, C++, C, Python, Go, Kotlin, Scala, Zig, PHP, Bash, SQL, HTML, CSS, and more.
 - I'm currently very interested in the functional programming paradigm, hence I started learning OCaml, Clojure, Haskell and Elm.
