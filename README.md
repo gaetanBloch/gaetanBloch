@@ -377,6 +377,10 @@
 
 <p>
 
+<a href="https://gitroll.io/profile/u5hBE20VUYGd9HWCPidRBA9QVtzt1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u5hBE20VUYGd9HWCPidRBA9QVtzt1" alt="GitRoll Profile Badge"/></a>
+
+<p>
+
 <!--![Gaëtan Bloch's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&theme=transparent&count_private=true&show=prs_merged,prs_merged_percentage)-->
 ![Gaëtan Bloch's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaetanBloch&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
 
