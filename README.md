@@ -1,6 +1,6 @@
 ![Banner](https://i.imgur.com/XZQZcuv.png)
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&size=25&pause=1000&color=D81C28&center=true&vCenter=true&width=600&lines=Senior+Software+Architect;Solutions+Architect;Cloud+Practitioner;Polyglot+Software+Engineer;International+Speaker;12%2B+years+of+professional+experience" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&size=25&pause=1000&color=D81C28&center=true&vCenter=true&width=600&lines=Senior+Software+Architect;Solutions+Architect;Cloud+Practitioner;Polyglot+Software+Engineer;AI+Engineer;International+Speaker;13%2B+years+of+professional+experience" alt="Typing SVG" /></a></p>
 
 <div align="center">
 
@@ -21,9 +21,9 @@
 ## Some stuff about me
 
 - I'm a Senior Software Engineer and Architect 👨‍💻
-- I have more than 11 years of professional experience
-- I am a polyglot developer, I have worked with Java, JavaScript, TypeScript, C#, Rust, C++, C, Python, Go, Kotlin, Scala, Zig, PHP, Bash, SQL, HTML, CSS, and more.
-- I'm currently very interested in the functional programming paradigm, hence I started learning OCaml, Clojure, Haskell and Elm.
+- I have more than 13 years of professional experience
+- I am a polyglot developer. I have worked with Java, JavaScript, TypeScript, C#, Rust, C++, C, Python, Go, Kotlin, Scala, Zig, PHP, Bash, SQL, HTML, CSS, and more.
+- I'm interested in the functional programming paradigm, so I started learning Elixir, OCaml, and Clojure.
 - I offer solutions to address project challenges in areas such as development, architecture,
   integration, configuration, deployment, observability, and evolution.
 - I have encountered a range of software architectures, from straightforward monoliths to intricate
@@ -31,12 +31,12 @@
 - I'm an Associate and Shareholder @<a href="https://www.time-planet.com/en">Team for The Planet</a>
   🌍
 - I'm also currently actively involved in a partnership with <a href="https://wwww.geekle.us">
-  Geekle.us</a> that organizes worldwide summits on High Tech trends, as a speaker, moderator and
-  part of the acceptance committee for picking the relevant talks.
-- I love Japan and I lived, studied and worked in Tokyo for 6 years 🗼
-- I'm found of sports in general, although I particularly like Volley-ball and Badminton 🏐 🏸
+  Geekle.us</a> organizing worldwide summits on High Tech trends as a speaker, moderator and
+  part of the acceptance committee to pick the relevant talks.
+- I love Japan, and I lived, studied, and worked in Tokyo for 6 years 🗼
+- I'm fond of sports in general, although I particularly like Volley-ball and Badminton 🏐 🏸
 
-### 📫 Reach me by e-mail on [my Personal address](mailto:gbloch@gaetan-bloch.com)
+### 📫 Reach me by e-mail on [my Personal address](mailto:gbloch@gaetanbloch.org)
 
 ### 📄 Learn about my experiences on [my LinkedIn resume](https://www.linkedin.com/in/gaetanbloch)
 
@@ -68,161 +68,64 @@
 <a href="https://devdocs.io/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40"/></a>
-<br/>
+
 <a href="https://v2.ocaml.org/docs/"><img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-icon.svg" width="40" height="40"/></a>
-<a href="https://clojure.org/guides/learn/clojure"><img src="https://www.vectorlogo.zone/logos/clojure/clojure-icon.svg" width="40" height="40"/></a>
-<a href="https://www.haskell.org/documentation/"><img src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg" width="40" height="40"/></a>
-<a href="https://elm-lang.org/docs"><img src="https://www.vectorlogo.zone/logos/elm-lang/elm-lang-icon.svg" width="40" height="40"/></a>
 <a href="https://elixir-lang.org/docs.html"><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" width="40" height="40"/></a>
 
 ### Backend
-<a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/quarkus-icon.svg" width="40" height="40"/>
-</a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/quarkus-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://micronaut.io/wp-content/uploads/2021/06/sally-black-768x707.png" width="40" height="40"/></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/12281454/211943562-1ed69d78-8745-4729-8864-6dcd40f3a172.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/AwesomeLogos/logomono/gh-pages/logos/resteasy.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Vert.x_Logo.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" width="40" height="40"/></a>
 
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://micronaut.io/wp-content/uploads/2021/06/sally-black-768x707.png" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://user-images.githubusercontent.com/12281454/211943562-1ed69d78-8745-4729-8864-6dcd40f3a172.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/AwesomeLogos/logomono/gh-pages/logos/resteasy.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Vert.x_Logo.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/bun.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_prisma.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gin.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://docs.airbrake.io/platforms/go/beego.png" width="60" height="40"/>
-</a>
-<a href="#">
-<img src="https://upload.vectorlogo.zone/logos/fiberwiki/images/2a76306a-d074-4ae7-8694-c03bc03c6201.svg" width="60" height="40"/>
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/zeromicro/zero-doc/main/doc/images/go-zero.png" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://encore.dev/assets/resources/go_kit.png" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://gorm.io/gorm.svg" width="60" height="40"/>
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/t/tauri-1.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://tokio.rs/img/icons/tokio.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/dieselrs/dieselrs-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://rocket.rs/v0.4/images/logo-boxed.png" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://pypi-camo.global.ssl.fastly.net/feaed7d398f1aa8b7b7bd67f9d3c450494cb2bf2/68747470733a2f2f7363726170792e6f72672f696d672f7363726170796c6f676f2e706e67" width="70" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/09/bottle-framework.png" width="80" height="40"/>
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/aiohttp.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" width="40" height="40"/>
-</a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/bun.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_prisma.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://avatars.githubusercontent.com/u/108468352?s=48&v=4" width="40" height="40"/></a>
+
+<a href="#"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gin.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://docs.airbrake.io/platforms/go/beego.png" width="60" height="40"/></a>
+<a href="#"><img src="https://upload.vectorlogo.zone/logos/fiberwiki/images/2a76306a-d074-4ae7-8694-c03bc03c6201.svg" width="60" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/zeromicro/zero-doc/main/doc/images/go-zero.png" width="40" height="40"/></a>
+<a href="#"><img src="https://encore.dev/assets/resources/go_kit.png" width="40" height="40"/></a>
+<a href="#"><img src="https://gorm.io/gorm.svg" width="60" height="40"/></a>
+
+<a href="#"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/t/tauri-1.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://tokio.rs/img/icons/tokio.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/dieselrs/dieselrs-icon.svg" width="40" height="40"/></a>
+
+<a><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://pypi-camo.global.ssl.fastly.net/feaed7d398f1aa8b7b7bd67f9d3c450494cb2bf2/68747470733a2f2f7363726170792e6f72672f696d672f7363726170796c6f676f2e706e67" width="70" height="40"/></a>
+<a href="#"><img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/09/bottle-framework.png" width="80" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/aiohttp.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" width="40" height="40"/></a>
+
+<a href="#"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" width="40" height="40"/></a>
 
 ### Frontend
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/astro.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/solidjs-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://htmx.org/docs/">
-<img src="https://styles.redditmedia.com/t5_2u59z4/styles/communityIcon_3wi5tbhd61181.png?width=256&s=5ede3220d9860ccb66b7a777e06f25274251b3ba" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://i.imgur.com/ZHaLw6p.png" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://i.imgur.com/K4Ze96N.jpg" width="40" height="40"/>
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="40" height="40"/>
-</a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/astro.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="40" height="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/solidjs-icon.svg" width="40" height="40"/></a>
+<a href="https://htmx.org/docs/"><img src="https://styles.redditmedia.com/t5_2u59z4/styles/communityIcon_3wi5tbhd61181.png?width=256&s=5ede3220d9860ccb66b7a777e06f25274251b3ba" width="40" height="40"/></a>
+<a href="#"><img src="https://i.imgur.com/ZHaLw6p.png" width="40" height="40"/></a>
+<a href="#"><img src="https://i.imgur.com/K4Ze96N.jpg" width="40" height="40"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="40" height="40"/></a>
 
 [//]: # ()
 [//]: # ()
