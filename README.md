@@ -112,6 +112,7 @@
 
 <a href="#"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="40" height="40"/></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40" height="40"/></a>
+
 <a href="#"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40" height="40"/></a>
 <a href="#"><img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" width="40" height="40"/></a>
 
