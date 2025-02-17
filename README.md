@@ -280,8 +280,10 @@
 ## 📈 My Github Statistics
 
 <p>
+  
+![https://imgur.com/n9kH6qK](https://i.imgur.com/n9kH6qK_d.webp?maxwidth=760&fidelity=grand)
 
-<a href="https://gitroll.io/profile/u5hBE20VUYGd9HWCPidRBA9QVtzt1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u5hBE20VUYGd9HWCPidRBA9QVtzt1" alt="GitRoll Profile Badge"/></a>
+</a>
 
 <p>
 
