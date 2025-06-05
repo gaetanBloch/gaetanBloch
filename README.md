@@ -18,24 +18,6 @@
 
 ### See [My personal website](https://gaetan-bloch.com)
 
-## Some stuff about me
-
-- I'm a Senior Software Engineer and Architect 👨‍💻
-- I have more than 13 years of professional experience
-- I am a polyglot developer. I have worked with Java, JavaScript, TypeScript, C#, Rust, C++, C, Python, Go, Kotlin, Scala, Zig, PHP, Bash, SQL, HTML, CSS, and more.
-- I'm interested in the functional programming paradigm, so I started learning Elixir, OCaml, and Clojure.
-- I offer solutions to address project challenges in areas such as development, architecture,
-  integration, configuration, deployment, observability, and evolution.
-- I have encountered a range of software architectures, from straightforward monoliths to intricate
-  microservices, micro frontends, and serverless systems, whether on-premise or cloud-native.
-- I'm an Associate and Shareholder @<a href="https://www.time-planet.com/en">Team for The Planet</a>
-  🌍
-- I'm also currently actively involved in a partnership with <a href="https://wwww.geekle.us">
-  Geekle.us</a> organizing worldwide summits on High Tech trends as a speaker, moderator and
-  part of the acceptance committee to pick the relevant talks.
-- I love Japan, and I lived, studied, and worked in Tokyo for 6 years 🗼
-- I'm fond of sports in general, although I particularly like Volley-ball and Badminton 🏐 🏸
-
 ### 📫 Reach me by e-mail on [my Personal address](mailto:gbloch@gaetanbloch.org)
 
 ### 📄 Learn about my experiences on [my LinkedIn resume](https://www.linkedin.com/in/gaetanbloch)
