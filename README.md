@@ -262,12 +262,6 @@
 ## 📈 My Github Statistics
 
 <p>
-  
-![https://imgur.com/n9kH6qK](https://i.imgur.com/n9kH6qK_d.webp?maxwidth=760&fidelity=grand)
-
-</a>
-
-<p>
 
 <!--![Gaëtan Bloch's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaetanbloch&show_icons=true&theme=transparent&count_private=true&show=prs_merged,prs_merged_percentage)-->
 ![Gaëtan Bloch's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaetanBloch&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
