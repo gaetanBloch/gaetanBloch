@@ -47,19 +47,6 @@
 
 <p align="center">
 
-
-<a href="https://linktr.ee/gbloch" target="_blank">
-<img src="https://i.ibb.co/3CqppQP/Frame-87.png" alt="linktree"/>
-</a>
-<br/>
-<br/>
-<a href="https://linktr.ee/gbloch" target="_blank">
-<img src="https://i.imgur.com/7xDztgy.jpg" width="700" alt="linktree"/>
-</a>
-
-
-
-
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=jhipster-geekle-demo&hide_border=true&theme=transparent)](https://github.com/gaetanBloch/jhipster-geekle-demo)
 [![Card](https://github-readme-stats.vercel.app/api/pin/?username=gaetanbloch&repo=meal-order&hide_border=true&theme=transparent)](https://github.com/gaetanBloch/jhipster-geekle-demo)
 
